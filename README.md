@@ -1,34 +1,61 @@
-# AWS Learning Lab
+# AWS Learning Lab ☁️
 
-## Goal
+> My hands-on journey to mastering AWS from a DevOps & SRE perspective.
 
-This repository documents my hands-on journey learning AWS from the perspective of a DevOps Engineer.
+## 🎯 Objectives
 
-Rather than only completing online courses, every AWS concept is reinforced through:
+- Learn AWS through practical experience
+- Build production-inspired cloud architectures
+- Practice Infrastructure as Code with Terraform
+- Automate cloud operations using the AWS CLI and Python
+- Prepare for AWS certifications and technical interviews
+- Document everything learned along the way
 
-- Hands-on labs
+## 📁 Repository Structure
+
+```
+.
+├── diagrams/
+├── labs/
+├── notes/
+├── projects/
+├── scripts/
+└── terraform/
+```
+
+## 🗺️ Learning Roadmap
+
+- [ ] Cloud Fundamentals
+- [ ] IAM
+- [ ] EC2
+- [ ] S3
+- [ ] VPC
+- [ ] Route 53
+- [ ] Elastic Load Balancing
+- [ ] Auto Scaling
+- [ ] RDS
+- [ ] ECR
+- [ ] ECS
+- [ ] CloudWatch
+- [ ] Infrastructure as Code (Terraform)
+- [ ] CI/CD on AWS
+- [ ] Monitoring & Logging
+- [ ] Production Project
+
+## 🛠️ Technologies
+
+- AWS
 - Terraform
-- AWS CLI
-- Architecture diagrams
-- Interview questions
-- Troubleshooting scenarios
+- Git
+- GitHub Actions
+- Docker
+- Kubernetes
+- Linux
+- Bash
+- Python
 
-## Current Progress
+---
 
-| Module | Status |
-|---------|--------|
-| Cloud Overview | ⏳ |
-| IAM | ⏳ |
-| EC2 | ⏳ |
-| S3 | ⏳ |
-| VPC | ⏳ |
-| RDS | ⏳ |
-| CloudWatch | ⏳ |
+**Learning Philosophy**
 
-## Repository Structure
-
-- `/notes` → Personal notes
-- `/labs` → Practical exercises
-- `/terraform` → Infrastructure as Code
-- `/scripts` → Automation scripts
-- `/diagrams` → AWS architecture diagrams
+> Learn by building, breaking, fixing, and documenting—not by memorizing.
